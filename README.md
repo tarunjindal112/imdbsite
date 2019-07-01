@@ -17,6 +17,8 @@ It uses mysql database with below connection details
 
 Commands to run for testing api:
 
+Deactivate virtual environment by using command : deactivate
+
 1.) ./manage.py migrate
 2.) ./manage.py populate_movies
 3.) ./manage.py runserver
